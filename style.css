@@ -110,7 +110,7 @@ html,body{
     color: rgb(0, 136, 255);
 }
 .card2{
-    filter: hue-rotate(200deg);
+    filter: hue-rotate(150deg);
 }
 .card3{
     filter: hue-rotate(300deg);
